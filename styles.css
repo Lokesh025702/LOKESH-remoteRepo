@@ -1,0 +1,26 @@
+/* Apply background color to the whole page */
+body {
+    background-color: #f0f8ff;   /* light blue background */
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    padding: 40px;
+}
+
+/* Style the paragraph */
+p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+/* Highlight important words */
+.highlight {
+    color: #007acc;              /* blue text */
+    font-weight: bold;
+}
+
+/* Style the job role */
+.role {
+    color: #d9534f;              /* red text */
+    font-style: italic;
+}
